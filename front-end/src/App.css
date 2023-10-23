@@ -1,0 +1,41 @@
+.nav-ul li{
+  display: inline;
+  padding:30px;
+}
+.form{
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  
+}
+
+.center {
+  /* border: 1px dotted black; */
+  width: 500px;
+  /* border: 1px dotted; */
+  position: absolute; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.clone{
+  width: 500px;
+  position: absolute; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Login{
+  height: 400px;
+}
+
+.lgin{
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-items: auto; */
+  /* align-items: auto; */
+  
+  /* flex-direction: row; */
+
+}
